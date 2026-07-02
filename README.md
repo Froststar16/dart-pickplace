@@ -89,7 +89,7 @@ dart-pickplace/
 **Requires Python 3.12** (dartpy only ships Windows wheels for 3.12).
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dart-pickplace.git
+git clone https://github.com/Froststar16/dart-pickplace.git
 cd dart-pickplace
 
 # create and activate virtual environment
